@@ -1,0 +1,495 @@
+AssetPath,DisplayName,Category,Status,SketchfabQuery,Note
+AMMO/AdvancedBullet,Advanced Bullet,Ammo,todo,Advanced Bullet low poly,
+AMMO/AdvancedRifleAmmo,Advanced Rifle Ammo,Ammo,todo,Advanced Rifle Ammo low poly,
+AMMO/C4Charge,C4 Charge,Ammo,todo,C4 Charge low poly,
+AMMO/C4RemoteDetonator,C4 Remote Detonator,Ammo,todo,C4 Remote Detonator low poly,
+AMMO/CannonBall,Cannon Ball,Ammo,todo,Cannon Ball low poly,
+AMMO/GrapplingHook,Grappling Hook,Ammo,todo,Grappling Hook low poly,
+AMMO/Grenade,Grenade,Ammo,todo,Grenade low poly,
+AMMO/HomingUnderwaterMine,Homing Underwater Mine,Ammo,todo,Homing Underwater Mine low poly,
+AMMO/RocketHomingMissile,Rocket Homing Missile,Ammo,todo,Rocket Homing Missile low poly,
+AMMO/RocketPropelledGrenade,Rocket Propelled Grenade,Ammo,todo,Rocket Propelled Grenade low poly,
+AMMO/ShockingTranquilizerDart,Shocking Tranquilizer Dart,Ammo,todo,Shocking Tranquilizer Dart low poly,
+AMMO/SimpleBullet,Simple Bullet,Ammo,todo,Simple Bullet low poly,
+AMMO/SimpleRifleAmmo,Simple Rifle Ammo,Ammo,todo,Simple Rifle Ammo low poly,
+AMMO/SimpleShotgunAmmo,Simple Shotgun Ammo,Ammo,todo,Simple Shotgun Ammo low poly,
+AMMO/SpearBolt,Spear Bolt,Ammo,todo,Spear Bolt low poly,
+AMMO/StoneArrow,Stone Arrow,Ammo,todo,Stone Arrow low poly,
+AMMO/TranqArrow,Tranq Arrow,Ammo,todo,Tranq Arrow low poly,
+AMMO/TranqSpearBolt,Tranq Spear Bolt,Ammo,todo,Tranq Spear Bolt low poly,
+AMMO/TranquilizerDart,Tranquilizer Dart,Ammo,todo,Tranquilizer Dart low poly,
+ARMOR/Chitin/ChitinBoots,Chitin Boots,Armor,todo,Chitin armor feet low poly,
+ARMOR/Chitin/ChitinChestpiece,Chitin Chestpiece,Armor,todo,Chitin armor chest low poly,
+ARMOR/Chitin/ChitinGauntlets,Chitin Gauntlets,Armor,todo,Chitin armor hands low poly,
+ARMOR/Chitin/ChitinHelmet,Chitin Helmet,Armor,todo,Chitin armor head low poly,
+ARMOR/Chitin/ChitinLeggings,Chitin Leggings,Armor,todo,Chitin armor legs low poly,
+ARMOR/Cloth/ClothBoots,Cloth Boots,Armor,todo,Cloth armor feet low poly,
+ARMOR/Cloth/ClothGloves,Cloth Gloves,Armor,todo,Cloth armor hands low poly,
+ARMOR/Cloth/ClothHat,Cloth Hat,Armor,todo,Cloth armor head low poly,
+ARMOR/Cloth/ClothPants,Cloth Pants,Armor,todo,Cloth armor legs low poly,
+ARMOR/Cloth/ClothShirt,Cloth Shirt,Armor,todo,Cloth armor chest low poly,
+ARMOR/Flak/FlakBoots,Flak Boots,Armor,todo,Flak armor feet low poly,
+ARMOR/Flak/FlakChestpiece,Flak Chestpiece,Armor,todo,Flak armor chest low poly,
+ARMOR/Flak/FlakGauntlets,Flak Gauntlets,Armor,todo,Flak armor hands low poly,
+ARMOR/Flak/FlakHelmet,Flak Helmet,Armor,todo,Flak armor head low poly,
+ARMOR/Flak/FlakLeggings,Flak Leggings,Armor,todo,Flak armor legs low poly,
+ARMOR/Fur/FurBoots,Fur Boots,Armor,todo,Fur armor feet low poly,
+ARMOR/Fur/FurCap,Fur Cap,Armor,todo,Fur armor head low poly,
+ARMOR/Fur/FurChestpiece,Fur Chestpiece,Armor,todo,Fur armor chest low poly,
+ARMOR/Fur/FurGauntlets,Fur Gauntlets,Armor,todo,Fur armor hands low poly,
+ARMOR/Fur/FurLeggings,Fur Leggings,Armor,todo,Fur armor legs low poly,
+ARMOR/Ghillie/GhillieBoots,Ghillie Boots,Armor,todo,Ghillie armor feet low poly,
+ARMOR/Ghillie/GhillieChestpiece,Ghillie Chestpiece,Armor,todo,Ghillie armor chest low poly,
+ARMOR/Ghillie/GhillieGauntlets,Ghillie Gauntlets,Armor,todo,Ghillie armor hands low poly,
+ARMOR/Ghillie/GhillieLeggings,Ghillie Leggings,Armor,todo,Ghillie armor legs low poly,
+ARMOR/Ghillie/GhillieMask,Ghillie Mask,Armor,todo,Ghillie armor head low poly,
+ARMOR/Hide/HideBoots,Hide Boots,Armor,todo,Hide armor feet low poly,
+ARMOR/Hide/HideGloves,Hide Gloves,Armor,todo,Hide armor hands low poly,
+ARMOR/Hide/HideHat,Hide Hat,Armor,todo,Hide armor head low poly,
+ARMOR/Hide/HidePants,Hide Pants,Armor,todo,Hide armor legs low poly,
+ARMOR/Hide/HideShirt,Hide Shirt,Armor,todo,Hide armor chest low poly,
+ARMOR/Riot/RiotBoots,Riot Boots,Armor,todo,Riot armor feet low poly,
+ARMOR/Riot/RiotChestpiece,Riot Chestpiece,Armor,todo,Riot armor chest low poly,
+ARMOR/Riot/RiotGauntlets,Riot Gauntlets,Armor,todo,Riot armor hands low poly,
+ARMOR/Riot/RiotHelmet,Riot Helmet,Armor,todo,Riot armor head low poly,
+ARMOR/Riot/RiotLeggings,Riot Leggings,Armor,todo,Riot armor legs low poly,
+ARMOR/SCUBA/SCUBAFlippers,SCUBA Flippers,Armor,todo,SCUBA armor feet low poly,
+ARMOR/SCUBA/SCUBALeggings,SCUBA Leggings,Armor,todo,SCUBA armor legs low poly,
+ARMOR/SCUBA/SCUBAMask,SCUBA Mask,Armor,todo,SCUBA armor head low poly,
+ARMOR/SCUBA/SCUBATank,SCUBA Tank,Armor,todo,SCUBA armor chest low poly,
+ARMOR/Tek/TekBoots,Tek Boots,Armor,todo,Tek armor feet low poly,
+ARMOR/Tek/TekChestpiece,Tek Chestpiece,Armor,todo,Tek armor chest low poly,
+ARMOR/Tek/TekGauntlets,Tek Gauntlets,Armor,todo,Tek armor hands low poly,
+ARMOR/Tek/TekHelmet,Tek Helmet,Armor,todo,Tek armor head low poly,
+ARMOR/Tek/TekLeggings,Tek Leggings,Armor,todo,Tek armor legs low poly,
+BEDS/BunkBed,Bunk Bed,Structure:Bed,todo,Bunk Bed low poly,
+BEDS/HideSleepingBag,Hide Sleeping Bag,Structure:Bed,todo,Hide Sleeping Bag low poly,
+BEDS/SimpleBed,Simple Bed,Structure:Bed,todo,Simple Bed low poly,
+BEDS/SleepingPod,Sleeping Pod,Structure:Bed,todo,Sleeping Pod low poly,
+BUILDINGS/Greenhouse/Ceiling,Greenhouse Ceiling,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Door,Greenhouse Door,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Doorframe,Greenhouse Doorframe,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/DoubleDoor,Greenhouse Double Door,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/DoubleDoorframe,Greenhouse Double Doorframe,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Foundation,Greenhouse Foundation,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedRoof,Greenhouse Sloped Roof,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedWallLeft,Greenhouse Sloped Wall Left,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedWallRight,Greenhouse Sloped Wall Right,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/TriangleCeiling,Greenhouse Triangle Ceiling,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/TriangleRoof,Greenhouse Triangle Roof,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Wall,Greenhouse Wall,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Window,Greenhouse Window,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/BehemothGate,Metal Behemoth Gate,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/BehemothGateway,Metal Behemoth Gateway,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Billboard,Metal Billboard,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Catwalk,Metal Catwalk,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ceiling,Metal Ceiling,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DinosaurGate,Metal Dinosaur Gate,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DinosaurGateway,Metal Dinosaur Gateway,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Door,Metal Door,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Doorframe,Metal Doorframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DoubleDoor,Metal Double Door,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DoubleDoorframe,Metal Double Doorframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/FenceFoundation,Metal Fence Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/FenceSupport,Metal Fence Support,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Foundation,Metal Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/GiantHatchframe,Metal Giant Hatchframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/GiantTrapdoor,Metal Giant Trapdoor,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Hatchframe,Metal Hatchframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ladder,Metal Ladder,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/OceanPlatform,Metal Ocean Platform,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Pillar,Metal Pillar,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Railing,Metal Railing,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ramp,Metal Ramp,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Sign,Metal Sign,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedRoof,Metal Sloped Roof,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedWallLeft,Metal Sloped Wall Left,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedWallRight,Metal Sloped Wall Right,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Staircase,Metal Staircase,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Trapdoor,Metal Trapdoor,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TreePlatform,Metal Tree Platform,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleCeiling,Metal Triangle Ceiling,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleFoundation,Metal Triangle Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleRoof,Metal Triangle Roof,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Wall,Metal Wall,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/WallSign,Metal Wall Sign,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Window,Metal Window,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Windowframe,Metal Windowframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Catwalk,Stone Catwalk,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Ceiling,Stone Ceiling,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/DinosaurGateway,Stone Dinosaur Gateway,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Doorframe,Stone Doorframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/DoubleDoorframe,Stone Double Doorframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/FenceFoundation,Stone Fence Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/FenceSupport,Stone Fence Support,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Foundation,Stone Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/GiantHatchframe,Stone Giant Hatchframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/GiantReinforcedTrapdoor,Stone Giant Reinforced Trapdoor,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Hatchframe,Stone Hatchframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/LargeWall,Stone Large Wall,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Pillar,Stone Pillar,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Railing,Stone Railing,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Ramp,Stone Ramp,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedDinosaurGate,Stone Reinforced Dinosaur Gate,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedDoubleDoor,Stone Reinforced Double Door,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedWindow,Stone Reinforced Window,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedWoodenDoor,Stone Reinforced Wooden Door,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedRoof,Stone Sloped Roof,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedWallLeft,Stone Sloped Wall Left,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedWallRight,Stone Sloped Wall Right,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Staircase,Stone Staircase,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Trapdoor,Stone Trapdoor,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleCeiling,Stone Triangle Ceiling,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleFoundation,Stone Triangle Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleRoof,Stone Triangle Roof,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Wall,Stone Wall,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Windowframe,Stone Windowframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/BehemothGate,Tek Behemoth Gate,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/BehemothGateway,Tek Behemoth Gateway,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Catwalk,Tek Catwalk,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ceiling,Tek Ceiling,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DinosaurGate,Tek Dinosaur Gate,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DinosaurGateway,Tek Dinosaur Gateway,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Door,Tek Door,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Doorframe,Tek Doorframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DoubleDoor,Tek Double Door,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DoubleDoorframe,Tek Double Doorframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/FenceFoundation,Tek Fence Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/FenceSupport,Tek Fence Support,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Foundation,Tek Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Hatchframe,Tek Hatchframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ladder,Tek Ladder,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/LargeWall,Tek Large Wall,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/OceanPlatform,Tek Ocean Platform,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Pillar,Tek Pillar,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Railing,Tek Railing,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ramp,Tek Ramp,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedRoof,Tek Sloped Roof,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedWallLeft,Tek Sloped Wall Left,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedWallRight,Tek Sloped Wall Right,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Staircase,Tek Staircase,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Trapdoor,Tek Trapdoor,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleCeiling,Tek Triangle Ceiling,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleFoundation,Tek Triangle Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleRoof,Tek Triangle Roof,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Wall,Tek Wall,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Window,Tek Window,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Windowframe,Tek Windowframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ceiling,Thatch Ceiling,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Door,Thatch Door,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Doorframe,Thatch Doorframe,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/FenceFoundation,Thatch Fence Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/FenceSupport,Thatch Fence Support,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Foundation,Thatch Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Hatchframe,Thatch Hatchframe,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ladder,Thatch Ladder,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Pillar,Thatch Pillar,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Railing,Thatch Railing,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ramp,Thatch Ramp,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedRoof,Thatch Sloped Roof,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedWallLeft,Thatch Sloped Wall Left,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedWallRight,Thatch Sloped Wall Right,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Staircase,Thatch Staircase,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Trapdoor,Thatch Trapdoor,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/TriangleCeiling,Thatch Triangle Ceiling,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/TriangleFoundation,Thatch Triangle Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Wall,Thatch Wall,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Billboard,Wood Billboard,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Catwalk,Wood Catwalk,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ceiling,Wood Ceiling,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DinosaurGate,Wood Dinosaur Gate,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DinosaurGateway,Wood Dinosaur Gateway,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Door,Wood Door,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Doorframe,Wood Doorframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DoubleDoor,Wood Double Door,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DoubleDoorframe,Wood Double Doorframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/FenceFoundation,Wood Fence Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/FenceSupport,Wood Fence Support,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Foundation,Wood Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Hatchframe,Wood Hatchframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ladder,Wood Ladder,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Pillar,Wood Pillar,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Railing,Wood Railing,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ramp,Wood Ramp,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Sign,Wood Sign,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedRoof,Wood Sloped Roof,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedWallLeft,Wood Sloped Wall Left,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedWallRight,Wood Sloped Wall Right,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Staircase,Wood Staircase,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Trapdoor,Wood Trapdoor,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TreePlatform,Wood Tree Platform,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleCeiling,Wood Triangle Ceiling,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleFoundation,Wood Triangle Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleRoof,Wood Triangle Roof,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Wall,Wood Wall,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/WallSign,Wood Wall Sign,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Window,Wood Window,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Windowframe,Wood Windowframe,Building:Wood,keep,,owner: existing building models are good enough
+CRAFTING/AirConditioner,Air Conditioner,Structure:Utility,todo,Air Conditioner low poly,
+CRAFTING/BeerBarrel,Beer Barrel,Structure:Crafting,done,Beer Barrel low poly,made in previous session
+CRAFTING/Campfire,Campfire,Structure:Crafting,done,Campfire low poly,made in previous session
+CRAFTING/ChemistryBench,Chemistry Bench,Structure:Crafting,todo,Chemistry Bench low poly,
+CRAFTING/CookingPot,Cooking Pot,Structure:Crafting,done,Cooking Pot low poly,made in previous session
+CRAFTING/Fabricator,Fabricator,Structure:Crafting,todo,Fabricator low poly,
+CRAFTING/IndustrialCooker,Industrial Cooker,Structure:Crafting,todo,Industrial Cooker low poly,
+CRAFTING/IndustrialForge,Industrial Forge,Structure:Crafting,todo,Industrial Forge low poly,
+CRAFTING/IndustrialGrill,Industrial Grill,Structure:Crafting,todo,Industrial Grill low poly,
+CRAFTING/IndustrialGrinder,Industrial Grinder,Structure:Crafting,todo,Industrial Grinder low poly,
+CRAFTING/MortarAndPestle,Mortar And Pestle,Structure:Crafting,done,Mortar And Pestle low poly,made in previous session
+CRAFTING/RefiningForge,Refining Forge,Structure:Crafting,done,Refining Forge low poly,made in previous session
+CRAFTING/Smithy,Smithy,Structure:Crafting,done,Smithy low poly,made in previous session
+CRAFTING/StoneFireplace,Stone Fireplace,Structure:Crafting,done,Stone Fireplace low poly,made in previous session
+CRAFTING/TekReplicator,Tek Replicator,Structure:Crafting,todo,Tek Replicator low poly,
+DECOR/ArtifactPedestal,Artifact Pedestal,Structure:Decor,todo,Artifact Pedestal low poly,
+DECOR/DisplayCase,Display Case,Structure:Decor,todo,Display Case low poly,
+DECOR/LoadoutMannequin,Loadout Mannequin,Structure:Decor,todo,Loadout Mannequin low poly,
+DECOR/TrainingDummy,Training Dummy,Structure:Decor,todo,Training Dummy low poly,
+DECOR/TrophyWallMount,Trophy Wall-Mount,Structure:Decor,todo,Trophy Wall-Mount low poly,
+DEFENSE/AutoTurret,Auto Turret,Structure:Defense,todo,Auto Turret low poly,
+DEFENSE/BallistaTurret,Ballista Turret,Structure:Defense,todo,Ballista Turret low poly,
+DEFENSE/BearTrap,Bear Trap,Structure:Defense,todo,Bear Trap low poly,
+DEFENSE/CatapultTurret,Catapult Turret,Structure:Defense,todo,Catapult Turret low poly,
+DEFENSE/HeavyAutoTurret,Heavy Auto Turret,Structure:Defense,todo,Heavy Auto Turret low poly,
+DEFENSE/LargeBearTrap,Large Bear Trap,Structure:Defense,todo,Large Bear Trap low poly,
+DEFENSE/MetalSpikeWall,Metal Spike Wall,Structure:Defense,todo,Metal Spike Wall low poly,
+DEFENSE/MinigunTurret,Minigun Turret,Structure:Defense,todo,Minigun Turret low poly,
+DEFENSE/PlantSpeciesX,Plant Species X,Structure:Defense,todo,Plant Species X low poly,
+DEFENSE/RocketTurret,Rocket Turret,Structure:Defense,todo,Rocket Turret low poly,
+DEFENSE/TekTurret,Tek Turret,Structure:Defense,todo,Tek Turret low poly,
+DEFENSE/TripwireAlarmTrap,Tripwire Alarm Trap,Structure:Defense,todo,Tripwire Alarm Trap low poly,
+DEFENSE/TripwireNarcoticTrap,Tripwire Narcotic Trap,Structure:Defense,todo,Tripwire Narcotic Trap low poly,
+DEFENSE/WoodenSpikeWall,Wooden Spike Wall,Structure:Defense,todo,Wooden Spike Wall low poly,
+ELECTRICAL/ElectricalCableFlexible,Flexible Electrical Cable,Structure:Electrical,todo,Flexible Electrical Cable low poly,
+ELECTRICAL/ElectricalCableInclined,Inclined Electrical Cable,Structure:Electrical,todo,Inclined Electrical Cable low poly,
+ELECTRICAL/ElectricalCableIntersection,Electrical Cable Intersection,Structure:Electrical,todo,Electrical Cable Intersection low poly,
+ELECTRICAL/ElectricalCableStraight,Straight Electrical Cable,Structure:Electrical,todo,Straight Electrical Cable low poly,
+ELECTRICAL/ElectricalCableVertical,Vertical Electrical Cable,Structure:Electrical,todo,Vertical Electrical Cable low poly,
+ELECTRICAL/ElectricalGenerator,Electrical Generator,Structure:Electrical,todo,Electrical Generator low poly,
+ELECTRICAL/ElectricalOutlet,Electrical Outlet,Structure:Electrical,todo,Electrical Outlet low poly,
+ELECTRICAL/Lamppost,Lamppost,Structure:Electrical,todo,Lamppost low poly,
+ELECTRICAL/OmnidirectionalLamppost,Omnidirectional Lamppost,Structure:Electrical,todo,Omnidirectional Lamppost low poly,
+FARMING/CompostBin,Compost Bin,Structure:Farming,done,Compost Bin low poly,made in previous session
+FARMING/LargeCropPlot,Large Crop Plot,Structure:Farming,todo,Large Crop Plot low poly,
+FARMING/MediumCropPlot,Medium Crop Plot,Structure:Farming,todo,Medium Crop Plot low poly,
+FARMING/MetalIrrigationPipeFlexible,Metal Irrigation Pipe - Flexible,Structure:Farming,todo,Metal Irrigation Pipe - Flexible low poly,
+FARMING/MetalIrrigationPipeInclined,Metal Irrigation Pipe - Inclined,Structure:Farming,todo,Metal Irrigation Pipe - Inclined low poly,
+FARMING/MetalIrrigationPipeIntake,Metal Irrigation Pipe - Intake,Structure:Farming,todo,Metal Irrigation Pipe - Intake low poly,
+FARMING/MetalIrrigationPipeIntersection,Metal Irrigation Pipe - Intersection,Structure:Farming,todo,Metal Irrigation Pipe - Intersection low poly,
+FARMING/MetalIrrigationPipeStraight,Metal Irrigation Pipe - Straight,Structure:Farming,todo,Metal Irrigation Pipe - Straight low poly,
+FARMING/MetalIrrigationPipeTap,Metal Irrigation Pipe - Tap,Structure:Farming,todo,Metal Irrigation Pipe - Tap low poly,
+FARMING/MetalIrrigationPipeVertical,Metal Irrigation Pipe - Vertical,Structure:Farming,todo,Metal Irrigation Pipe - Vertical low poly,
+FARMING/SmallCropPlot,Small Crop Plot,Structure:Farming,todo,Small Crop Plot low poly,
+FARMING/StoneIrrigationPipeFlexible,Stone Irrigation Pipe - Flexible,Structure:Farming,todo,Stone Irrigation Pipe - Flexible low poly,
+FARMING/StoneIrrigationPipeInclined,Stone Irrigation Pipe - Inclined,Structure:Farming,todo,Stone Irrigation Pipe - Inclined low poly,
+FARMING/StoneIrrigationPipeIntake,Stone Irrigation Pipe - Intake,Structure:Farming,todo,Stone Irrigation Pipe - Intake low poly,
+FARMING/StoneIrrigationPipeIntersection,Stone Irrigation Pipe - Intersection,Structure:Farming,todo,Stone Irrigation Pipe - Intersection low poly,
+FARMING/StoneIrrigationPipeStraight,Stone Irrigation Pipe - Straight,Structure:Farming,todo,Stone Irrigation Pipe - Straight low poly,
+FARMING/StoneIrrigationPipeTap,Stone Irrigation Pipe - Tap,Structure:Farming,todo,Stone Irrigation Pipe - Tap low poly,
+FARMING/StoneIrrigationPipeVertical,Stone Irrigation Pipe - Vertical,Structure:Farming,todo,Stone Irrigation Pipe - Vertical low poly,
+FARMING/TreeSapTap,Tree Sap Tap,Structure:Farming,done,Tree Sap Tap low poly,made in previous session
+ITEMS/Resources/AchatinaPaste,Achatina Paste,Resource,todo,Achatina Paste game item low poly,
+ITEMS/Resources/Amarberry,Amarberry,Resource,todo,Amarberry game item low poly,
+ITEMS/Resources/AmarberrySeed,Amarberry Seed,Resource,todo,Amarberry Seed game item low poly,
+ITEMS/Resources/AmmoniteBile,Ammonite Bile,Resource,todo,Ammonite Bile game item low poly,
+ITEMS/Resources/AnglerGel,AnglerGel,Resource,todo,AnglerGel game item low poly,
+ITEMS/Resources/Azulberry,Azulberry,Resource,todo,Azulberry game item low poly,
+ITEMS/Resources/AzulberrySeed,Azulberry Seed,Resource,todo,Azulberry Seed game item low poly,
+ITEMS/Resources/BlackPearl,Black Pearl,Resource,todo,Black Pearl game item low poly,
+ITEMS/Resources/CementingPaste,Cementing Paste,Resource,todo,Cementing Paste game item low poly,
+ITEMS/Resources/Chitin,Chitin,Resource,todo,Chitin game item low poly,
+ITEMS/Resources/CitronalSeed,Citronal Seed,Resource,todo,Citronal Seed game item low poly,
+ITEMS/Resources/Crystal,Crystal,Resource,todo,Crystal game item low poly,
+ITEMS/Resources/Fiber,Fiber,Resource,todo,Fiber game item low poly,
+ITEMS/Resources/Flint,Flint,Resource,todo,Flint game item low poly,
+ITEMS/Resources/GiantBeeHoney,Giant Bee Honey,Resource,todo,Giant Bee Honey game item low poly,
+ITEMS/Resources/Hide,Hide,Resource,todo,Hide game item low poly,
+ITEMS/Resources/Keratin,Keratin,Resource,todo,Keratin game item low poly,
+ITEMS/Resources/LeechBlood,Leech Blood,Resource,todo,Leech Blood game item low poly,
+ITEMS/Resources/LongrassSeed,Longrass Seed,Resource,todo,Longrass Seed game item low poly,
+ITEMS/Resources/Mejoberry,Mejoberry,Resource,todo,Mejoberry game item low poly,
+ITEMS/Resources/MejoberrySeed,Mejoberry Seed,Resource,todo,Mejoberry Seed game item low poly,
+ITEMS/Resources/Metal,Metal,Resource,todo,Metal game item low poly,
+ITEMS/Resources/Narcoberry,Narcoberry,Resource,todo,Narcoberry game item low poly,
+ITEMS/Resources/NarcoberrySeed,Narcoberry Seed,Resource,todo,Narcoberry Seed game item low poly,
+ITEMS/Resources/Obsidian,Obsidian,Resource,todo,Obsidian game item low poly,
+ITEMS/Resources/Oil,Oil,Resource,done,Oil game item low poly,
+ITEMS/Resources/OrganicPolymer,Organic Polymer,Resource,todo,Organic Polymer game item low poly,
+ITEMS/Resources/Pelt,Pelt,Resource,todo,Pelt game item low poly,
+ITEMS/Resources/PlantSpeciesXSeed,Plant Species X Seed,Resource,todo,Plant Species X Seed game item low poly,
+ITEMS/Resources/RareFlower,Rare Flower,Resource,todo,Rare Flower game item low poly,
+ITEMS/Resources/RareMushroom,Rare Mushroom,Resource,todo,Rare Mushroom game item low poly,
+ITEMS/Resources/RawFishMeat,Raw Fish Meat,Resource,todo,Raw Fish Meat game item low poly,
+ITEMS/Resources/RawMeat,Raw Meat,Resource,todo,Raw Meat game item low poly,
+ITEMS/Resources/RawPrimeFishMeat,Raw Prime Fish Meat,Resource,todo,Raw Prime Fish Meat game item low poly,
+ITEMS/Resources/RawPrimeMeat,Raw Prime Meat,Resource,todo,Raw Prime Meat game item low poly,
+ITEMS/Resources/RockarrotSeed,Rockarrot Seed,Resource,todo,Rockarrot Seed game item low poly,
+ITEMS/Resources/Sap,Sap,Resource,todo,Sap game item low poly,
+ITEMS/Resources/SavorootSeed,Savoroot Seed,Resource,todo,Savoroot Seed game item low poly,
+ITEMS/Resources/SilicaPearls,Silica Pearls,Resource,done,Silica Pearls game item low poly,
+ITEMS/Resources/Stimberry,Stimberry,Resource,todo,Stimberry game item low poly,
+ITEMS/Resources/StimberrySeed,Stimberry Seed,Resource,todo,Stimberry Seed game item low poly,
+ITEMS/Resources/Stone,Stone,Resource,todo,Stone game item low poly,
+ITEMS/Resources/Thatch,Thatch,Resource,todo,Thatch game item low poly,
+ITEMS/Resources/Tintoberry,Tintoberry,Resource,todo,Tintoberry game item low poly,
+ITEMS/Resources/TintoberrySeed,Tintoberry Seed,Resource,todo,Tintoberry Seed game item low poly,
+ITEMS/Resources/TusoteuthisTentacle,Tusoteuthis Tentacle,Resource,todo,Tusoteuthis Tentacle game item low poly,
+ITEMS/Resources/Wood,Wood,Resource,todo,Wood game item low poly,
+NODES/BEAVER_DAM,Giant Beaver Dam,HarvestNode,done,,made in previous session
+NODES/BERRY_BUSH,Berry Bush,HarvestNode,done,,made in previous session
+NODES/BUSH,Bush,HarvestNode,done,,made in previous session
+NODES/CAVE_CRYSTAL,Cave Crystal,HarvestNode,done,,made in previous session
+NODES/CAVE_METAL_NODE,Cave Metal Node,HarvestNode,done,,made in previous session
+NODES/CAVE_OBSIDIAN,Cave Obsidian,HarvestNode,done,,made in previous session
+NODES/CAVE_OIL_NODE,Cave Oil Node,HarvestNode,done,,made in previous session
+NODES/CAVE_ROCK,Cave Rock,HarvestNode,done,,made in previous session
+NODES/CRYSTAL_NODE,Crystal Node,HarvestNode,done,,made in previous session
+NODES/DEAD_TREE,Dead Tree,HarvestNode,done,,made in previous session
+NODES/GIANT_BEE_HIVE,Giant Bee Hive,HarvestNode,done,,made in previous session
+NODES/JUNGLE_TREE,Jungle Tree,HarvestNode,done,,made in previous session
+NODES/LARGE_STONE_ROCK,Large Stone Rock,HarvestNode,done,,made in previous session
+NODES/METAL_ROCK,Metal Rock,HarvestNode,done,,made in previous session
+NODES/OBSIDIAN_ROCK,Obsidian Rock,HarvestNode,done,,made in previous session
+NODES/OIL_ROCK,Oil Rock,HarvestNode,done,,made in previous session
+NODES/OIL_ROCK_SNOW,Oil Rock (Snow Coast),HarvestNode,done,,made in previous session
+NODES/PEARL_CLAM,Pearl Clam,HarvestNode,done,,made in previous session
+NODES/RARE_MUSHROOM_SOURCE,Rare Mushroom Source,HarvestNode,done,,made in previous session
+NODES/REDWOOD_BUSH,Redwood Bush,HarvestNode,done,,made in previous session
+NODES/REDWOOD_TREE,Redwood Tree,HarvestNode,done,,made in previous session
+NODES/RED_MOUNTAIN_BUSH,Red Mountain Bush,HarvestNode,done,,made in previous session
+NODES/RICH_METAL_ROCK,Rich Metal Rock,HarvestNode,done,,made in previous session
+NODES/RIVER_ROCK,River Rock,HarvestNode,done,,made in previous session
+NODES/SAP_TAP,Tree Sap Tap,HarvestNode,done,,made in previous session
+NODES/SAP_TREE,Redwood Tree (Sap Tap spot),HarvestNode,done,,made in previous session
+NODES/SMALL_ROCK,Small Rock,HarvestNode,done,,made in previous session
+NODES/SNOW_BUSH,Snow Bush,HarvestNode,done,,made in previous session
+NODES/STONE_ROCK,Stone Rock,HarvestNode,done,,made in previous session
+NODES/SWAMP_BRAMBLE,Swamp Bramble,HarvestNode,done,,made in previous session
+NODES/SWAMP_BUSH,Swamp Bush,HarvestNode,done,,made in previous session
+NODES/SWAMP_CATTAIL,Swamp Cattail,HarvestNode,done,,made in previous session
+NODES/SWAMP_CAVE_VEGETATION,Swamp Cave Vegetation,HarvestNode,done,,made in previous session
+NODES/SWAMP_ROOT_TREE,Swamp Root Tree,HarvestNode,done,,made in previous session
+NODES/SWAMP_TREE,Swamp Tree,HarvestNode,done,,made in previous session
+NODES/TREE_LARGE,Large Tree,HarvestNode,done,,made in previous session
+NODES/TREE_MEDIUM,Medium Tree,HarvestNode,done,,made in previous session
+NODES/TREE_SMALL,Small Tree,HarvestNode,done,,made in previous session
+NODES/TREE_STUMP,Tree Stump,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_CAVE_PEARL_CLAM,Underwater Cave Pearl Clam,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_OIL_NODE,Underwater Oil Node,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_PEARL_NODE,Underwater Pearl Node,HarvestNode,done,,made in previous session
+SADDLES/AllosaurusSaddle,Allosaurus Saddle,Saddle,todo,Allosaurus saddle,
+SADDLES/AnkyloSaddle,Ankylo Saddle,Saddle,todo,Ankylo saddle,
+SADDLES/ArgentavisSaddle,Argentavis Saddle,Saddle,todo,Argentavis saddle,
+SADDLES/ArthropleuraSaddle,Arthropleura Saddle,Saddle,todo,Arthropleura saddle,
+SADDLES/BaryonyxSaddle,Baryonyx Saddle,Saddle,todo,Baryonyx saddle,
+SADDLES/BasilosaurusSaddle,Basilosaurus Saddle,Saddle,todo,Basilosaurus saddle,
+SADDLES/BeelzebufoSaddle,Beelzebufo Saddle,Saddle,todo,Beelzebufo saddle,
+SADDLES/BrontoPlatformSaddle,Bronto Platform Saddle,Saddle,todo,Bronto platform saddle,
+SADDLES/CarbonemysSaddle,Carbonemys Saddle,Saddle,todo,Carbonemys saddle,
+SADDLES/CarcharoSaddle,Carcharo Saddle,Saddle,todo,Carcharo saddle,
+SADDLES/CastoroidesSaddle,Castoroides Saddle,Saddle,todo,Castoroides saddle,
+SADDLES/ChalicotheriumSaddle,Chalicotherium Saddle,Saddle,todo,Chalicotherium saddle,
+SADDLES/DaeodonSaddle,Daeodon Saddle,Saddle,todo,Daeodon saddle,
+SADDLES/DiplodocusSaddle,Diplodocus Saddle,Saddle,todo,Diplodocus saddle,
+SADDLES/DirebearSaddle,Direbear Saddle,Saddle,done,Direbear saddle,
+SADDLES/DoedicurusSaddle,Doedicurus Saddle,Saddle,todo,Doedicurus saddle,
+SADDLES/DunkleosteusSaddle,Dunkleosteus Saddle,Saddle,todo,Dunkleosteus saddle,
+SADDLES/EquusSaddle,Equus Saddle,Saddle,todo,Equus saddle,
+SADDLES/GallimimusSaddle,Gallimimus Saddle,Saddle,todo,Gallimimus saddle,
+SADDLES/GiganotosaurusSaddle,Giganotosaurus Saddle,Saddle,todo,Giganotosaurus saddle,
+SADDLES/IchthyosaurusSaddle,Ichthyosaurus Saddle,Saddle,todo,Ichthyosaurus saddle,
+SADDLES/IguanodonSaddle,Iguanodon Saddle,Saddle,todo,Iguanodon saddle,
+SADDLES/KaprosuchusSaddle,Kaprosuchus Saddle,Saddle,todo,Kaprosuchus saddle,
+SADDLES/MammothSaddle,Mammoth Saddle,Saddle,todo,Mammoth saddle,
+SADDLES/MantaSaddle,Manta Saddle,Saddle,todo,Manta saddle,
+SADDLES/MegalaniaSaddle,Megalania Saddle,Saddle,todo,Megalania saddle,
+SADDLES/MegalocerosSaddle,Megaloceros Saddle,Saddle,todo,Megaloceros saddle,
+SADDLES/MegalodonSaddle,Megalodon Saddle,Saddle,todo,Megalodon saddle,
+SADDLES/MegalodonTekSaddle,Megalodon Tek Saddle,Saddle,todo,Megalodon saddle,
+SADDLES/MegalosaurusSaddle,Megalosaurus Saddle,Saddle,done,Megalosaurus saddle,
+SADDLES/MegatheriumSaddle,Megatherium Saddle,Saddle,todo,Megatherium saddle,
+SADDLES/MosasaurPlatformSaddle,Mosasaur Platform Saddle,Saddle,todo,Mosasaur platform saddle,
+SADDLES/MosasaurSaddle,Mosasaur Saddle,Saddle,todo,Mosasaur saddle,
+SADDLES/MosasaurTekSaddle,Mosasaur Tek Saddle,Saddle,todo,Mosasaur saddle,
+SADDLES/PachySaddle,Pachy Saddle,Saddle,todo,Pachy saddle,
+SADDLES/PachyrhinosaurusSaddle,Pachyrhinosaurus Saddle,Saddle,todo,Pachyrhinosaurus saddle,
+SADDLES/ParacerPlatformSaddle,Paracer Platform Saddle,Saddle,todo,Paracer platform saddle,
+SADDLES/ParasaurSaddle,Parasaur Saddle,Saddle,todo,Parasaur saddle,
+SADDLES/PelagornisSaddle,Pelagornis Saddle,Saddle,todo,Pelagornis saddle,
+SADDLES/PlesiosaurPlatformSaddle,Plesiosaur Platform Saddle,Saddle,todo,Plesiosaur platform saddle,
+SADDLES/PlesiosaurSaddle,Plesiosaur Saddle,Saddle,todo,Plesiosaur saddle,
+SADDLES/ProcoptodonSaddle,Procoptodon Saddle,Saddle,todo,Procoptodon saddle,
+SADDLES/PteranodonSaddle,Pteranodon Saddle,Saddle,todo,Pteranodon saddle,
+SADDLES/QuetzPlatformSaddle,Quetz Platform Saddle,Saddle,todo,Quetz platform saddle,
+SADDLES/QuetzSaddle,Quetz Saddle,Saddle,todo,Quetz saddle,
+SADDLES/RaptorSaddle,Raptor Saddle,Saddle,todo,Raptor saddle,
+SADDLES/RexSaddle,Rex Saddle,Saddle,todo,Rex saddle,
+SADDLES/RexTekSaddle,Rex Tek Saddle,Saddle,todo,Rex saddle,
+SADDLES/RhyniognathaSaddle,Rhyniognatha Saddle,Saddle,todo,Rhyniognatha saddle,
+SADDLES/SabertoothSaddle,Sabertooth Saddle,Saddle,todo,Sabertooth saddle,
+SADDLES/SarcoSaddle,Sarco Saddle,Saddle,todo,Sarco saddle,
+SADDLES/SpinoSaddle,Spino Saddle,Saddle,todo,Spino saddle,
+SADDLES/StegoSaddle,Stego Saddle,Saddle,todo,Stego saddle,
+SADDLES/TapejaraSaddle,Tapejara Saddle,Saddle,todo,Tapejara saddle,
+SADDLES/TapejaraTekSaddle,Tapejara Tek Saddle,Saddle,todo,Tapejara saddle,
+SADDLES/TerrorbirdSaddle,Terrorbird Saddle,Saddle,todo,Terrorbird saddle,
+SADDLES/TherizinosaurusSaddle,Therizinosaurus Saddle,Saddle,todo,Therizinosaurus saddle,
+SADDLES/ThylacoleoSaddle,Thylacoleo Saddle,Saddle,todo,Thylacoleo saddle,
+SADDLES/TitanosaurPlatformSaddle,Titanosaur Platform Saddle,Saddle,todo,Titanosaur platform saddle,
+SADDLES/TrikeSaddle,Trike Saddle,Saddle,todo,Trike saddle,
+SADDLES/TusoteuthisSaddle,Tusoteuthis Saddle,Saddle,todo,Tusoteuthis saddle,
+SADDLES/WoollyRhinoSaddle,WoollyRhino Saddle,Saddle,todo,WoollyRhino saddle,
+SADDLES/YutyrannusSaddle,Yutyrannus Saddle,Saddle,todo,Yutyrannus saddle,
+SHIELDS/MetalShield,Metal Shield,Shield,todo,Metal Shield low poly,
+SHIELDS/RiotShield,Riot Shield,Shield,todo,Riot Shield low poly,
+SHIELDS/TekShield,Tek Shield,Shield,todo,Tek Shield low poly,
+SHIELDS/WoodenShield,Wooden Shield,Shield,todo,Wooden Shield low poly,
+STORAGE/Bookshelf,Bookshelf,Structure:Storage,done,Bookshelf low poly,made in previous session
+STORAGE/FeedingTrough,Feeding Trough,Structure:Storage,done,Feeding Trough low poly,made in previous session
+STORAGE/LargeStorageBox,Large Storage Box,Structure:Storage,done,Large Storage Box low poly,made in previous session
+STORAGE/MetalWaterReservoir,Metal Water Reservoir,Structure:Storage,todo,Metal Water Reservoir low poly,
+STORAGE/PreservingBin,Preserving Bin,Structure:Storage,done,Preserving Bin low poly,made in previous session
+STORAGE/Refrigerator,Refrigerator,Structure:Storage,todo,Refrigerator low poly,
+STORAGE/StorageBox,Storage Box,Structure:Storage,done,Storage Box low poly,made in previous session
+STORAGE/TekTrough,Tek Trough,Structure:Storage,todo,Tek Trough low poly,
+STORAGE/Vault,Vault,Structure:Storage,todo,Vault low poly,
+STORAGE/WaterReservoir,Water Reservoir,Structure:Storage,done,Water Reservoir low poly,made in previous session
+TEK/TekShieldGenerator,Tek Forcefield,Structure:Tek,todo,Tek Forcefield sci-fi low poly,
+TEK/TekTeleporter,Tek Teleporter,Structure:Tek,todo,Tek Teleporter sci-fi low poly,
+TEK/TekTransmitter,Tek Transmitter,Structure:Tek,todo,Tek Transmitter sci-fi low poly,
+TOOLS/Camera,Camera,Tool,todo,Camera survival low poly,
+TOOLS/Compass,Compass,Tool,todo,Compass survival low poly,
+TOOLS/Electronics,Electronics,Tool,todo,Electronics survival low poly,
+TOOLS/FishingRod,Fishing Rod,Tool,todo,Fishing Rod survival low poly,
+TOOLS/GPS,GPS,Tool,todo,GPS survival low poly,
+TOOLS/MagnifyingGlass,Magnifying Glass,Tool,todo,Magnifying Glass survival low poly,
+TOOLS/MetalHatchet,Metal Hatchet,Tool,todo,Metal Hatchet survival low poly,
+TOOLS/MetalPick,Metal Pick,Tool,todo,Metal Pick survival low poly,
+TOOLS/MetalSickle,Metal Sickle,Tool,todo,Metal Sickle survival low poly,
+TOOLS/Paintbrush,Paintbrush,Tool,todo,Paintbrush survival low poly,
+TOOLS/Radio,Radio,Tool,todo,Radio survival low poly,
+TOOLS/RemoteKeypad,Remote Keypad,Tool,todo,Remote Keypad survival low poly,
+TOOLS/Scissors,Scissors,Tool,todo,Scissors survival low poly,
+TOOLS/SprayPainter,Spray Painter,Tool,todo,Spray Painter survival low poly,
+TOOLS/Spyglass,Spyglass,Tool,todo,Spyglass survival low poly,
+TOOLS/StoneHatchet,Stone Hatchet,Tool,todo,Stone Hatchet survival low poly,
+TOOLS/StonePick,Stone Pick,Tool,todo,Stone Pick survival low poly,
+TOOLS/Torch,Torch,Tool,todo,Torch survival low poly,
+WEAPONS/Bola,Bola,Weapon,todo,Bola low poly,
+WEAPONS/Bow,Bow,Weapon,todo,Bow low poly,
+WEAPONS/Cannon,Cannon,Weapon,todo,Cannon low poly,
+WEAPONS/CompoundBow,Compound Bow,Weapon,todo,Compound Bow low poly,
+WEAPONS/Crossbow,Crossbow,Weapon,todo,Crossbow low poly,
+WEAPONS/ElectricProd,Electric Prod,Weapon,todo,Electric Prod low poly,
+WEAPONS/FabricatedPistol,Fabricated Pistol,Weapon,todo,Fabricated Pistol low poly,
+WEAPONS/FabricatedSniperRifle,Fabricated Sniper Rifle,Weapon,todo,Fabricated Sniper Rifle low poly,
+WEAPONS/HarpoonLauncher,Harpoon Launcher,Weapon,todo,Harpoon Launcher low poly,
+WEAPONS/LongneckRifle,Longneck Rifle,Weapon,todo,Longneck Rifle low poly,
+WEAPONS/Pike,Pike,Weapon,todo,Pike low poly,
+WEAPONS/PumpActionShotgun,Pump-Action Shotgun,Weapon,todo,Pump-Action Shotgun low poly,
+WEAPONS/RocketLauncher,Rocket Launcher,Weapon,todo,Rocket Launcher low poly,
+WEAPONS/Shotgun,Shotgun,Weapon,todo,Shotgun low poly,
+WEAPONS/SimplePistol,Simple Pistol,Weapon,todo,Simple Pistol low poly,
+WEAPONS/Slingshot,Slingshot,Weapon,todo,Slingshot low poly,
+WEAPONS/Spear,Spear,Weapon,todo,Spear low poly,
+WEAPONS/Sword,Sword,Weapon,todo,Sword low poly,
+WEAPONS/WoodenClub,Wooden Club,Weapon,todo,Wooden Club low poly,
