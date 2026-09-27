@@ -1,0 +1,495 @@
+AssetPath,DisplayName,Category,Status,SketchfabQuery,Note
+AMMO/AdvancedBullet,Advanced Bullet,Ammo,todo,9mm bullet|pistol bullet,
+AMMO/AdvancedRifleAmmo,Advanced Rifle Ammo,Ammo,todo,rifle ammo|ammo box,
+AMMO/C4Charge,C4 Charge,Ammo,todo,c4 explosive,
+AMMO/C4RemoteDetonator,C4 Remote Detonator,Ammo,todo,detonator,
+AMMO/CannonBall,Cannon Ball,Ammo,todo,cannonball,
+AMMO/GrapplingHook,Grappling Hook,Ammo,todo,grappling hook,
+AMMO/Grenade,Grenade,Ammo,todo,hand grenade|grenade,
+AMMO/HomingUnderwaterMine,Homing Underwater Mine,Ammo,todo,naval mine|sea mine,
+AMMO/RocketHomingMissile,Rocket Homing Missile,Ammo,todo,missile,
+AMMO/RocketPropelledGrenade,Rocket Propelled Grenade,Ammo,todo,rpg rocket|rpg,
+AMMO/ShockingTranquilizerDart,Shocking Tranquilizer Dart,Ammo,todo,tranquilizer dart|dart,
+AMMO/SimpleBullet,Simple Bullet,Ammo,todo,musket ball|lead bullet,
+AMMO/SimpleRifleAmmo,Simple Rifle Ammo,Ammo,todo,rifle cartridge|bullet,
+AMMO/SimpleShotgunAmmo,Simple Shotgun Ammo,Ammo,todo,shotgun shell,
+AMMO/SpearBolt,Spear Bolt,Ammo,todo,speargun spear|harpoon,
+AMMO/StoneArrow,Stone Arrow,Ammo,todo,stone arrow|arrow,
+AMMO/TranqArrow,Tranq Arrow,Ammo,todo,arrow,
+AMMO/TranqSpearBolt,Tranq Spear Bolt,Ammo,todo,harpoon,
+AMMO/TranquilizerDart,Tranquilizer Dart,Ammo,todo,tranquilizer dart|dart,
+ARMOR/Chitin/ChitinBoots,Chitin Boots,Armor,todo,bone insect armor boots|boots realistic,
+ARMOR/Chitin/ChitinChestpiece,Chitin Chestpiece,Armor,todo,bone insect armor vest|vest realistic,
+ARMOR/Chitin/ChitinGauntlets,Chitin Gauntlets,Armor,todo,bone insect armor gloves|gloves realistic,
+ARMOR/Chitin/ChitinHelmet,Chitin Helmet,Armor,todo,bone insect armor helmet|helmet realistic,
+ARMOR/Chitin/ChitinLeggings,Chitin Leggings,Armor,todo,bone insect armor pants|pants realistic,
+ARMOR/Cloth/ClothBoots,Cloth Boots,Armor,todo,linen cloth boots|boots realistic,
+ARMOR/Cloth/ClothGloves,Cloth Gloves,Armor,todo,linen cloth gloves|gloves realistic,
+ARMOR/Cloth/ClothHat,Cloth Hat,Armor,todo,linen cloth helmet|helmet realistic,
+ARMOR/Cloth/ClothPants,Cloth Pants,Armor,todo,linen cloth pants|pants realistic,
+ARMOR/Cloth/ClothShirt,Cloth Shirt,Armor,todo,linen cloth vest|vest realistic,
+ARMOR/Flak/FlakBoots,Flak Boots,Armor,todo,military combat boots|boots realistic,
+ARMOR/Flak/FlakChestpiece,Flak Chestpiece,Armor,todo,military combat vest|vest realistic,
+ARMOR/Flak/FlakGauntlets,Flak Gauntlets,Armor,todo,military combat gloves|gloves realistic,
+ARMOR/Flak/FlakHelmet,Flak Helmet,Armor,todo,military combat helmet|helmet realistic,
+ARMOR/Flak/FlakLeggings,Flak Leggings,Armor,todo,military combat pants|pants realistic,
+ARMOR/Fur/FurBoots,Fur Boots,Armor,todo,fur boots|boots realistic,
+ARMOR/Fur/FurCap,Fur Cap,Armor,todo,fur helmet|helmet realistic,
+ARMOR/Fur/FurChestpiece,Fur Chestpiece,Armor,todo,fur vest|vest realistic,
+ARMOR/Fur/FurGauntlets,Fur Gauntlets,Armor,todo,fur gloves|gloves realistic,
+ARMOR/Fur/FurLeggings,Fur Leggings,Armor,todo,fur pants|pants realistic,
+ARMOR/Ghillie/GhillieBoots,Ghillie Boots,Armor,todo,ghillie suit boots|boots realistic,
+ARMOR/Ghillie/GhillieChestpiece,Ghillie Chestpiece,Armor,todo,ghillie suit vest|vest realistic,
+ARMOR/Ghillie/GhillieGauntlets,Ghillie Gauntlets,Armor,todo,ghillie suit gloves|gloves realistic,
+ARMOR/Ghillie/GhillieLeggings,Ghillie Leggings,Armor,todo,ghillie suit pants|pants realistic,
+ARMOR/Ghillie/GhillieMask,Ghillie Mask,Armor,todo,ghillie suit helmet|helmet realistic,
+ARMOR/Hide/HideBoots,Hide Boots,Armor,todo,leather boots|boots realistic,
+ARMOR/Hide/HideGloves,Hide Gloves,Armor,todo,leather gloves|gloves realistic,
+ARMOR/Hide/HideHat,Hide Hat,Armor,todo,leather helmet|helmet realistic,
+ARMOR/Hide/HidePants,Hide Pants,Armor,todo,leather pants|pants realistic,
+ARMOR/Hide/HideShirt,Hide Shirt,Armor,todo,leather vest|vest realistic,
+ARMOR/Riot/RiotBoots,Riot Boots,Armor,todo,riot police boots|boots realistic,
+ARMOR/Riot/RiotChestpiece,Riot Chestpiece,Armor,todo,riot police vest|vest realistic,
+ARMOR/Riot/RiotGauntlets,Riot Gauntlets,Armor,todo,riot police gloves|gloves realistic,
+ARMOR/Riot/RiotHelmet,Riot Helmet,Armor,todo,riot police helmet|helmet realistic,
+ARMOR/Riot/RiotLeggings,Riot Leggings,Armor,todo,riot police pants|pants realistic,
+ARMOR/SCUBA/SCUBAFlippers,SCUBA Flippers,Armor,todo,diving fins,
+ARMOR/SCUBA/SCUBALeggings,SCUBA Leggings,Armor,todo,wetsuit,
+ARMOR/SCUBA/SCUBAMask,SCUBA Mask,Armor,todo,diving mask,
+ARMOR/SCUBA/SCUBATank,SCUBA Tank,Armor,todo,scuba tank,
+ARMOR/Tek/TekBoots,Tek Boots,Armor,todo,sci-fi armor boots|boots realistic,
+ARMOR/Tek/TekChestpiece,Tek Chestpiece,Armor,todo,sci-fi armor vest|vest realistic,
+ARMOR/Tek/TekGauntlets,Tek Gauntlets,Armor,todo,sci-fi armor gloves|gloves realistic,
+ARMOR/Tek/TekHelmet,Tek Helmet,Armor,todo,sci-fi armor helmet|helmet realistic,
+ARMOR/Tek/TekLeggings,Tek Leggings,Armor,todo,sci-fi armor pants|pants realistic,
+BEDS/BunkBed,Bunk Bed,Structure:Bed,todo,bunk bed,
+BEDS/HideSleepingBag,Hide Sleeping Bag,Structure:Bed,todo,sleeping bag,
+BEDS/SimpleBed,Simple Bed,Structure:Bed,todo,rustic wooden bed|wooden bed,
+BEDS/SleepingPod,Sleeping Pod,Structure:Bed,todo,sci-fi sleeping pod|cryo pod,
+BUILDINGS/Greenhouse/Ceiling,Greenhouse Ceiling,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Door,Greenhouse Door,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Doorframe,Greenhouse Doorframe,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/DoubleDoor,Greenhouse Double Door,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/DoubleDoorframe,Greenhouse Double Doorframe,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Foundation,Greenhouse Foundation,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedRoof,Greenhouse Sloped Roof,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedWallLeft,Greenhouse Sloped Wall Left,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/SlopedWallRight,Greenhouse Sloped Wall Right,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/TriangleCeiling,Greenhouse Triangle Ceiling,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/TriangleRoof,Greenhouse Triangle Roof,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Wall,Greenhouse Wall,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Greenhouse/Window,Greenhouse Window,Building:Greenhouse,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/BehemothGate,Metal Behemoth Gate,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/BehemothGateway,Metal Behemoth Gateway,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Billboard,Metal Billboard,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Catwalk,Metal Catwalk,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ceiling,Metal Ceiling,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DinosaurGate,Metal Dinosaur Gate,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DinosaurGateway,Metal Dinosaur Gateway,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Door,Metal Door,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Doorframe,Metal Doorframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DoubleDoor,Metal Double Door,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/DoubleDoorframe,Metal Double Doorframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/FenceFoundation,Metal Fence Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/FenceSupport,Metal Fence Support,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Foundation,Metal Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/GiantHatchframe,Metal Giant Hatchframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/GiantTrapdoor,Metal Giant Trapdoor,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Hatchframe,Metal Hatchframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ladder,Metal Ladder,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/OceanPlatform,Metal Ocean Platform,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Pillar,Metal Pillar,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Railing,Metal Railing,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Ramp,Metal Ramp,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Sign,Metal Sign,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedRoof,Metal Sloped Roof,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedWallLeft,Metal Sloped Wall Left,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/SlopedWallRight,Metal Sloped Wall Right,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Staircase,Metal Staircase,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Trapdoor,Metal Trapdoor,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TreePlatform,Metal Tree Platform,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleCeiling,Metal Triangle Ceiling,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleFoundation,Metal Triangle Foundation,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/TriangleRoof,Metal Triangle Roof,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Wall,Metal Wall,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/WallSign,Metal Wall Sign,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Window,Metal Window,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Metal/Windowframe,Metal Windowframe,Building:Metal,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Catwalk,Stone Catwalk,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Ceiling,Stone Ceiling,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/DinosaurGateway,Stone Dinosaur Gateway,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Doorframe,Stone Doorframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/DoubleDoorframe,Stone Double Doorframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/FenceFoundation,Stone Fence Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/FenceSupport,Stone Fence Support,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Foundation,Stone Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/GiantHatchframe,Stone Giant Hatchframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/GiantReinforcedTrapdoor,Stone Giant Reinforced Trapdoor,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Hatchframe,Stone Hatchframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/LargeWall,Stone Large Wall,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Pillar,Stone Pillar,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Railing,Stone Railing,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Ramp,Stone Ramp,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedDinosaurGate,Stone Reinforced Dinosaur Gate,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedDoubleDoor,Stone Reinforced Double Door,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedWindow,Stone Reinforced Window,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/ReinforcedWoodenDoor,Stone Reinforced Wooden Door,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedRoof,Stone Sloped Roof,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedWallLeft,Stone Sloped Wall Left,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/SlopedWallRight,Stone Sloped Wall Right,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Staircase,Stone Staircase,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Trapdoor,Stone Trapdoor,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleCeiling,Stone Triangle Ceiling,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleFoundation,Stone Triangle Foundation,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/TriangleRoof,Stone Triangle Roof,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Wall,Stone Wall,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Stone/Windowframe,Stone Windowframe,Building:Stone,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/BehemothGate,Tek Behemoth Gate,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/BehemothGateway,Tek Behemoth Gateway,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Catwalk,Tek Catwalk,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ceiling,Tek Ceiling,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DinosaurGate,Tek Dinosaur Gate,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DinosaurGateway,Tek Dinosaur Gateway,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Door,Tek Door,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Doorframe,Tek Doorframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DoubleDoor,Tek Double Door,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/DoubleDoorframe,Tek Double Doorframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/FenceFoundation,Tek Fence Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/FenceSupport,Tek Fence Support,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Foundation,Tek Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Hatchframe,Tek Hatchframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ladder,Tek Ladder,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/LargeWall,Tek Large Wall,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/OceanPlatform,Tek Ocean Platform,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Pillar,Tek Pillar,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Railing,Tek Railing,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Ramp,Tek Ramp,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedRoof,Tek Sloped Roof,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedWallLeft,Tek Sloped Wall Left,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/SlopedWallRight,Tek Sloped Wall Right,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Staircase,Tek Staircase,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Trapdoor,Tek Trapdoor,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleCeiling,Tek Triangle Ceiling,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleFoundation,Tek Triangle Foundation,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/TriangleRoof,Tek Triangle Roof,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Wall,Tek Wall,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Window,Tek Window,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Tek/Windowframe,Tek Windowframe,Building:Tek,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ceiling,Thatch Ceiling,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Door,Thatch Door,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Doorframe,Thatch Doorframe,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/FenceFoundation,Thatch Fence Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/FenceSupport,Thatch Fence Support,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Foundation,Thatch Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Hatchframe,Thatch Hatchframe,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ladder,Thatch Ladder,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Pillar,Thatch Pillar,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Railing,Thatch Railing,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Ramp,Thatch Ramp,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedRoof,Thatch Sloped Roof,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedWallLeft,Thatch Sloped Wall Left,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/SlopedWallRight,Thatch Sloped Wall Right,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Staircase,Thatch Staircase,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Trapdoor,Thatch Trapdoor,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/TriangleCeiling,Thatch Triangle Ceiling,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/TriangleFoundation,Thatch Triangle Foundation,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Thatch/Wall,Thatch Wall,Building:Thatch,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Billboard,Wood Billboard,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Catwalk,Wood Catwalk,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ceiling,Wood Ceiling,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DinosaurGate,Wood Dinosaur Gate,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DinosaurGateway,Wood Dinosaur Gateway,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Door,Wood Door,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Doorframe,Wood Doorframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DoubleDoor,Wood Double Door,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/DoubleDoorframe,Wood Double Doorframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/FenceFoundation,Wood Fence Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/FenceSupport,Wood Fence Support,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Foundation,Wood Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Hatchframe,Wood Hatchframe,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ladder,Wood Ladder,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Pillar,Wood Pillar,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Railing,Wood Railing,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Ramp,Wood Ramp,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Sign,Wood Sign,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedRoof,Wood Sloped Roof,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedWallLeft,Wood Sloped Wall Left,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/SlopedWallRight,Wood Sloped Wall Right,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Staircase,Wood Staircase,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Trapdoor,Wood Trapdoor,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TreePlatform,Wood Tree Platform,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleCeiling,Wood Triangle Ceiling,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleFoundation,Wood Triangle Foundation,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/TriangleRoof,Wood Triangle Roof,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Wall,Wood Wall,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/WallSign,Wood Wall Sign,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Window,Wood Window,Building:Wood,keep,,owner: existing building models are good enough
+BUILDINGS/Wood/Windowframe,Wood Windowframe,Building:Wood,keep,,owner: existing building models are good enough
+CRAFTING/AirConditioner,Air Conditioner,Structure:Utility,todo,air conditioner unit|air conditioner,
+CRAFTING/BeerBarrel,Beer Barrel,Structure:Crafting,done,Beer Barrel realistic,made in previous session
+CRAFTING/Campfire,Campfire,Structure:Crafting,done,Campfire realistic,made in previous session
+CRAFTING/ChemistryBench,Chemistry Bench,Structure:Crafting,todo,chemistry lab table|laboratory table,
+CRAFTING/CookingPot,Cooking Pot,Structure:Crafting,done,Cooking Pot realistic,made in previous session
+CRAFTING/Fabricator,Fabricator,Structure:Crafting,todo,industrial machine workbench|industrial machine,
+CRAFTING/IndustrialCooker,Industrial Cooker,Structure:Crafting,todo,industrial kettle|cooking kettle,
+CRAFTING/IndustrialForge,Industrial Forge,Structure:Crafting,todo,industrial furnace|furnace,
+CRAFTING/IndustrialGrill,Industrial Grill,Structure:Crafting,todo,industrial grill|commercial grill,
+CRAFTING/IndustrialGrinder,Industrial Grinder,Structure:Crafting,todo,industrial grinder machine|grinder machine,
+CRAFTING/MortarAndPestle,Mortar And Pestle,Structure:Crafting,done,Mortar And Pestle realistic,made in previous session
+CRAFTING/RefiningForge,Refining Forge,Structure:Crafting,done,Refining Forge realistic,made in previous session
+CRAFTING/Smithy,Smithy,Structure:Crafting,done,Smithy realistic,made in previous session
+CRAFTING/StoneFireplace,Stone Fireplace,Structure:Crafting,done,Stone Fireplace realistic,made in previous session
+CRAFTING/TekReplicator,Tek Replicator,Structure:Crafting,todo,sci-fi machine|sci-fi fabricator,
+DECOR/ArtifactPedestal,Artifact Pedestal,Structure:Decor,todo,stone pedestal|pedestal,
+DECOR/DisplayCase,Display Case,Structure:Decor,todo,glass display case|display case,
+DECOR/LoadoutMannequin,Loadout Mannequin,Structure:Decor,todo,mannequin,
+DECOR/TrainingDummy,Training Dummy,Structure:Decor,todo,training dummy,
+DECOR/TrophyWallMount,Trophy Wall-Mount,Structure:Decor,todo,trophy wall mount|hunting trophy,
+DEFENSE/AutoTurret,Auto Turret,Structure:Defense,todo,sentry turret|turret,
+DEFENSE/BallistaTurret,Ballista Turret,Structure:Defense,todo,ballista,
+DEFENSE/BearTrap,Bear Trap,Structure:Defense,todo,bear trap,
+DEFENSE/CatapultTurret,Catapult Turret,Structure:Defense,todo,catapult,
+DEFENSE/HeavyAutoTurret,Heavy Auto Turret,Structure:Defense,todo,heavy turret|turret,
+DEFENSE/LargeBearTrap,Large Bear Trap,Structure:Defense,todo,bear trap,
+DEFENSE/MetalSpikeWall,Metal Spike Wall,Structure:Defense,todo,metal spike barricade|czech hedgehog,
+DEFENSE/MinigunTurret,Minigun Turret,Structure:Defense,todo,minigun turret|minigun,
+DEFENSE/PlantSpeciesX,Plant Species X,Structure:Defense,todo,carnivorous plant|venus flytrap,
+DEFENSE/RocketTurret,Rocket Turret,Structure:Defense,todo,missile launcher turret|missile turret,
+DEFENSE/TekTurret,Tek Turret,Structure:Defense,todo,sci-fi turret,
+DEFENSE/TripwireAlarmTrap,Tripwire Alarm Trap,Structure:Defense,todo,tripwire trap|tripwire,
+DEFENSE/TripwireNarcoticTrap,Tripwire Narcotic Trap,Structure:Defense,todo,tripwire trap|tripwire,
+DEFENSE/WoodenSpikeWall,Wooden Spike Wall,Structure:Defense,todo,wooden spike barricade|wooden spikes,
+ELECTRICAL/ElectricalCableFlexible,Flexible Electrical Cable,Structure:Electrical,todo,electrical cable,
+ELECTRICAL/ElectricalCableInclined,Inclined Electrical Cable,Structure:Electrical,todo,electrical cable,
+ELECTRICAL/ElectricalCableIntersection,Electrical Cable Intersection,Structure:Electrical,todo,junction box|electrical box,
+ELECTRICAL/ElectricalCableStraight,Straight Electrical Cable,Structure:Electrical,todo,electrical cable,
+ELECTRICAL/ElectricalCableVertical,Vertical Electrical Cable,Structure:Electrical,todo,electrical cable,
+ELECTRICAL/ElectricalGenerator,Electrical Generator,Structure:Electrical,todo,diesel generator|generator,
+ELECTRICAL/ElectricalOutlet,Electrical Outlet,Structure:Electrical,todo,power outlet|wall socket,
+ELECTRICAL/Lamppost,Lamppost,Structure:Electrical,todo,street lamp|lamp post,
+ELECTRICAL/OmnidirectionalLamppost,Omnidirectional Lamppost,Structure:Electrical,todo,floodlight tower|floodlight,
+FARMING/CompostBin,Compost Bin,Structure:Farming,done,Compost Bin realistic,made in previous session
+FARMING/LargeCropPlot,Large Crop Plot,Structure:Farming,todo,raised garden bed|garden bed,
+FARMING/MediumCropPlot,Medium Crop Plot,Structure:Farming,todo,raised garden bed|garden bed,
+FARMING/MetalIrrigationPipeFlexible,Metal Irrigation Pipe - Flexible,Structure:Farming,todo,metal flexible pipe|flexible pipe,
+FARMING/MetalIrrigationPipeInclined,Metal Irrigation Pipe - Inclined,Structure:Farming,todo,metal pipe|pipe,
+FARMING/MetalIrrigationPipeIntake,Metal Irrigation Pipe - Intake,Structure:Farming,todo,metal water intake pipe|water intake pipe,
+FARMING/MetalIrrigationPipeIntersection,Metal Irrigation Pipe - Intersection,Structure:Farming,todo,metal pipe junction|pipe junction,
+FARMING/MetalIrrigationPipeStraight,Metal Irrigation Pipe - Straight,Structure:Farming,todo,metal pipe|pipe,
+FARMING/MetalIrrigationPipeTap,Metal Irrigation Pipe - Tap,Structure:Farming,todo,metal water tap faucet|water tap faucet,
+FARMING/MetalIrrigationPipeVertical,Metal Irrigation Pipe - Vertical,Structure:Farming,todo,metal pipe|pipe,
+FARMING/SmallCropPlot,Small Crop Plot,Structure:Farming,todo,raised garden bed|garden bed,
+FARMING/StoneIrrigationPipeFlexible,Stone Irrigation Pipe - Flexible,Structure:Farming,todo,stone flexible pipe|flexible pipe,
+FARMING/StoneIrrigationPipeInclined,Stone Irrigation Pipe - Inclined,Structure:Farming,todo,stone pipe|pipe,
+FARMING/StoneIrrigationPipeIntake,Stone Irrigation Pipe - Intake,Structure:Farming,todo,stone water intake pipe|water intake pipe,
+FARMING/StoneIrrigationPipeIntersection,Stone Irrigation Pipe - Intersection,Structure:Farming,todo,stone pipe junction|pipe junction,
+FARMING/StoneIrrigationPipeStraight,Stone Irrigation Pipe - Straight,Structure:Farming,todo,stone pipe|pipe,
+FARMING/StoneIrrigationPipeTap,Stone Irrigation Pipe - Tap,Structure:Farming,todo,stone water tap faucet|water tap faucet,
+FARMING/StoneIrrigationPipeVertical,Stone Irrigation Pipe - Vertical,Structure:Farming,todo,stone pipe|pipe,
+FARMING/TreeSapTap,Tree Sap Tap,Structure:Farming,done,Tree Sap Tap realistic,made in previous session
+ITEMS/Resources/AchatinaPaste,Achatina Paste,Resource,todo,paste jar|clay jar,
+ITEMS/Resources/Amarberry,Amarberry,Resource,todo,yellow berries|berries,
+ITEMS/Resources/AmarberrySeed,Amarberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/AmmoniteBile,Ammonite Bile,Resource,todo,green potion vial|potion vial,
+ITEMS/Resources/AnglerGel,AnglerGel,Resource,todo,bioluminescent jelly|glowing jar,
+ITEMS/Resources/Azulberry,Azulberry,Resource,todo,blueberries|berries,
+ITEMS/Resources/AzulberrySeed,Azulberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/BlackPearl,Black Pearl,Resource,todo,black pearl|pearl,
+ITEMS/Resources/CementingPaste,Cementing Paste,Resource,todo,clay lump|wet clay,
+ITEMS/Resources/Chitin,Chitin,Resource,todo,insect carapace|beetle shell,
+ITEMS/Resources/CitronalSeed,Citronal Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/Crystal,Crystal,Resource,todo,quartz crystal cluster|crystal,
+ITEMS/Resources/Fiber,Fiber,Resource,todo,dried grass bundle|hay bundle,
+ITEMS/Resources/Flint,Flint,Resource,todo,flint stone|flint rock,
+ITEMS/Resources/GiantBeeHoney,Giant Bee Honey,Resource,todo,honeycomb,
+ITEMS/Resources/Hide,Hide,Resource,todo,animal hide leather|leather hide,
+ITEMS/Resources/Keratin,Keratin,Resource,todo,animal horn|horn,
+ITEMS/Resources/LeechBlood,Leech Blood,Resource,todo,blood vial|vial,
+ITEMS/Resources/LongrassSeed,Longrass Seed,Resource,todo,grass seeds|seeds,
+ITEMS/Resources/Mejoberry,Mejoberry,Resource,todo,blackberries|berries,
+ITEMS/Resources/MejoberrySeed,Mejoberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/Metal,Metal,Resource,todo,iron ore|metal ore rock,
+ITEMS/Resources/Narcoberry,Narcoberry,Resource,todo,elderberries|black berries,
+ITEMS/Resources/NarcoberrySeed,Narcoberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/Obsidian,Obsidian,Resource,todo,obsidian rock|obsidian,
+ITEMS/Resources/Oil,Oil,Resource,done,oil canister,
+ITEMS/Resources/OrganicPolymer,Organic Polymer,Resource,todo,wax lump|resin,
+ITEMS/Resources/Pelt,Pelt,Resource,todo,fur pelt|animal fur,
+ITEMS/Resources/PlantSpeciesXSeed,Plant Species X Seed,Resource,todo,seed pod|seed,
+ITEMS/Resources/RareFlower,Rare Flower,Resource,todo,wild flower scan|flower,
+ITEMS/Resources/RareMushroom,Rare Mushroom,Resource,todo,mushroom photogrammetry|mushroom,
+ITEMS/Resources/RawFishMeat,Raw Fish Meat,Resource,todo,raw fish fillet|fish fillet,
+ITEMS/Resources/RawMeat,Raw Meat,Resource,todo,raw meat steak|raw meat,
+ITEMS/Resources/RawPrimeFishMeat,Raw Prime Fish Meat,Resource,todo,salmon fillet|fish fillet,
+ITEMS/Resources/RawPrimeMeat,Raw Prime Meat,Resource,todo,raw beef marbled steak|raw steak,
+ITEMS/Resources/RockarrotSeed,Rockarrot Seed,Resource,todo,carrot seeds|seeds,
+ITEMS/Resources/Sap,Sap,Resource,todo,tree resin amber|amber,
+ITEMS/Resources/SavorootSeed,Savoroot Seed,Resource,todo,root seeds|seeds,
+ITEMS/Resources/SilicaPearls,Silica Pearls,Resource,done,pearls,
+ITEMS/Resources/Stimberry,Stimberry,Resource,todo,white berries|snowberry,
+ITEMS/Resources/StimberrySeed,Stimberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/Stone,Stone,Resource,todo,stone rock photogrammetry|stone rock,
+ITEMS/Resources/Thatch,Thatch,Resource,todo,straw bundle|hay bundle,
+ITEMS/Resources/Tintoberry,Tintoberry,Resource,todo,raspberries|berries,
+ITEMS/Resources/TintoberrySeed,Tintoberry Seed,Resource,todo,seeds pile|seeds,
+ITEMS/Resources/TusoteuthisTentacle,Tusoteuthis Tentacle,Resource,todo,octopus tentacle|tentacle,
+ITEMS/Resources/Wood,Wood,Resource,todo,firewood logs|wood log,
+NODES/BEAVER_DAM,Giant Beaver Dam,HarvestNode,done,,made in previous session
+NODES/BERRY_BUSH,Berry Bush,HarvestNode,done,,made in previous session
+NODES/BUSH,Bush,HarvestNode,done,,made in previous session
+NODES/CAVE_CRYSTAL,Cave Crystal,HarvestNode,done,,made in previous session
+NODES/CAVE_METAL_NODE,Cave Metal Node,HarvestNode,done,,made in previous session
+NODES/CAVE_OBSIDIAN,Cave Obsidian,HarvestNode,done,,made in previous session
+NODES/CAVE_OIL_NODE,Cave Oil Node,HarvestNode,done,,made in previous session
+NODES/CAVE_ROCK,Cave Rock,HarvestNode,done,,made in previous session
+NODES/CRYSTAL_NODE,Crystal Node,HarvestNode,done,,made in previous session
+NODES/DEAD_TREE,Dead Tree,HarvestNode,done,,made in previous session
+NODES/GIANT_BEE_HIVE,Giant Bee Hive,HarvestNode,done,,made in previous session
+NODES/JUNGLE_TREE,Jungle Tree,HarvestNode,done,,made in previous session
+NODES/LARGE_STONE_ROCK,Large Stone Rock,HarvestNode,done,,made in previous session
+NODES/METAL_ROCK,Metal Rock,HarvestNode,done,,made in previous session
+NODES/OBSIDIAN_ROCK,Obsidian Rock,HarvestNode,done,,made in previous session
+NODES/OIL_ROCK,Oil Rock,HarvestNode,done,,made in previous session
+NODES/OIL_ROCK_SNOW,Oil Rock (Snow Coast),HarvestNode,done,,made in previous session
+NODES/PEARL_CLAM,Pearl Clam,HarvestNode,done,,made in previous session
+NODES/RARE_MUSHROOM_SOURCE,Rare Mushroom Source,HarvestNode,done,,made in previous session
+NODES/REDWOOD_BUSH,Redwood Bush,HarvestNode,done,,made in previous session
+NODES/REDWOOD_TREE,Redwood Tree,HarvestNode,done,,made in previous session
+NODES/RED_MOUNTAIN_BUSH,Red Mountain Bush,HarvestNode,done,,made in previous session
+NODES/RICH_METAL_ROCK,Rich Metal Rock,HarvestNode,done,,made in previous session
+NODES/RIVER_ROCK,River Rock,HarvestNode,done,,made in previous session
+NODES/SAP_TAP,Tree Sap Tap,HarvestNode,done,,made in previous session
+NODES/SAP_TREE,Redwood Tree (Sap Tap spot),HarvestNode,done,,made in previous session
+NODES/SMALL_ROCK,Small Rock,HarvestNode,done,,made in previous session
+NODES/SNOW_BUSH,Snow Bush,HarvestNode,done,,made in previous session
+NODES/STONE_ROCK,Stone Rock,HarvestNode,done,,made in previous session
+NODES/SWAMP_BRAMBLE,Swamp Bramble,HarvestNode,done,,made in previous session
+NODES/SWAMP_BUSH,Swamp Bush,HarvestNode,done,,made in previous session
+NODES/SWAMP_CATTAIL,Swamp Cattail,HarvestNode,done,,made in previous session
+NODES/SWAMP_CAVE_VEGETATION,Swamp Cave Vegetation,HarvestNode,done,,made in previous session
+NODES/SWAMP_ROOT_TREE,Swamp Root Tree,HarvestNode,done,,made in previous session
+NODES/SWAMP_TREE,Swamp Tree,HarvestNode,done,,made in previous session
+NODES/TREE_LARGE,Large Tree,HarvestNode,done,,made in previous session
+NODES/TREE_MEDIUM,Medium Tree,HarvestNode,done,,made in previous session
+NODES/TREE_SMALL,Small Tree,HarvestNode,done,,made in previous session
+NODES/TREE_STUMP,Tree Stump,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_CAVE_PEARL_CLAM,Underwater Cave Pearl Clam,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_OIL_NODE,Underwater Oil Node,HarvestNode,done,,made in previous session
+NODES/UNDERWATER_PEARL_NODE,Underwater Pearl Node,HarvestNode,done,,made in previous session
+SADDLES/AllosaurusSaddle,Allosaurus Saddle,Saddle,todo,Allosaurus saddle|dinosaur saddle|leather saddle,
+SADDLES/AnkyloSaddle,Ankylo Saddle,Saddle,todo,Ankylo saddle|dinosaur saddle|leather saddle,
+SADDLES/ArgentavisSaddle,Argentavis Saddle,Saddle,todo,Argentavis saddle|dragon saddle|leather saddle,
+SADDLES/ArthropleuraSaddle,Arthropleura Saddle,Saddle,todo,Arthropleura saddle|dinosaur saddle|leather saddle,
+SADDLES/BaryonyxSaddle,Baryonyx Saddle,Saddle,todo,Baryonyx saddle|dinosaur saddle|leather saddle,
+SADDLES/BasilosaurusSaddle,Basilosaurus Saddle,Saddle,todo,Basilosaurus saddle|sea creature saddle|leather saddle harness,
+SADDLES/BeelzebufoSaddle,Beelzebufo Saddle,Saddle,todo,Beelzebufo saddle|dinosaur saddle|leather saddle,
+SADDLES/BrontoPlatformSaddle,Bronto Platform Saddle,Saddle,todo,Bronto platform saddle|howdah|wooden platform,
+SADDLES/CarbonemysSaddle,Carbonemys Saddle,Saddle,todo,Carbonemys saddle|dinosaur saddle|leather saddle,
+SADDLES/CarcharoSaddle,Carcharo Saddle,Saddle,todo,Carcharo saddle|dinosaur saddle|leather saddle,
+SADDLES/CastoroidesSaddle,Castoroides Saddle,Saddle,todo,Castoroides saddle|dinosaur saddle|leather saddle,
+SADDLES/ChalicotheriumSaddle,Chalicotherium Saddle,Saddle,todo,Chalicotherium saddle|dinosaur saddle|leather saddle,
+SADDLES/DaeodonSaddle,Daeodon Saddle,Saddle,todo,Daeodon saddle|dinosaur saddle|leather saddle,
+SADDLES/DiplodocusSaddle,Diplodocus Saddle,Saddle,todo,Diplodocus saddle|dinosaur saddle|leather saddle,
+SADDLES/DirebearSaddle,Direbear Saddle,Saddle,done,Direbear saddle|dinosaur saddle|leather saddle,
+SADDLES/DoedicurusSaddle,Doedicurus Saddle,Saddle,todo,Doedicurus saddle|dinosaur saddle|leather saddle,
+SADDLES/DunkleosteusSaddle,Dunkleosteus Saddle,Saddle,todo,Dunkleosteus saddle|sea creature saddle|leather saddle harness,
+SADDLES/EquusSaddle,Equus Saddle,Saddle,todo,Equus saddle|dinosaur saddle|leather saddle,
+SADDLES/GallimimusSaddle,Gallimimus Saddle,Saddle,todo,Gallimimus saddle|dinosaur saddle|leather saddle,
+SADDLES/GiganotosaurusSaddle,Giganotosaurus Saddle,Saddle,todo,Giganotosaurus saddle|dinosaur saddle|leather saddle,
+SADDLES/IchthyosaurusSaddle,Ichthyosaurus Saddle,Saddle,todo,Ichthyosaurus saddle|sea creature saddle|leather saddle harness,
+SADDLES/IguanodonSaddle,Iguanodon Saddle,Saddle,todo,Iguanodon saddle|dinosaur saddle|leather saddle,
+SADDLES/KaprosuchusSaddle,Kaprosuchus Saddle,Saddle,todo,Kaprosuchus saddle|dinosaur saddle|leather saddle,
+SADDLES/MammothSaddle,Mammoth Saddle,Saddle,todo,Mammoth saddle|dinosaur saddle|leather saddle,
+SADDLES/MantaSaddle,Manta Saddle,Saddle,todo,Manta saddle|sea creature saddle|leather saddle harness,
+SADDLES/MegalaniaSaddle,Megalania Saddle,Saddle,todo,Megalania saddle|dinosaur saddle|leather saddle,
+SADDLES/MegalocerosSaddle,Megaloceros Saddle,Saddle,todo,Megaloceros saddle|dinosaur saddle|leather saddle,
+SADDLES/MegalodonSaddle,Megalodon Saddle,Saddle,todo,Megalodon saddle|sea creature saddle|leather saddle harness,
+SADDLES/MegalodonTekSaddle,Megalodon Tek Saddle,Saddle,todo,Megalodon tek saddle|sci-fi saddle,
+SADDLES/MegalosaurusSaddle,Megalosaurus Saddle,Saddle,done,Megalosaurus saddle|dinosaur saddle|leather saddle,
+SADDLES/MegatheriumSaddle,Megatherium Saddle,Saddle,todo,Megatherium saddle|dinosaur saddle|leather saddle,
+SADDLES/MosasaurPlatformSaddle,Mosasaur Platform Saddle,Saddle,todo,Mosasaur platform saddle|howdah|wooden platform,
+SADDLES/MosasaurSaddle,Mosasaur Saddle,Saddle,todo,Mosasaur saddle|sea creature saddle|leather saddle harness,
+SADDLES/MosasaurTekSaddle,Mosasaur Tek Saddle,Saddle,todo,Mosasaur tek saddle|sci-fi saddle,
+SADDLES/PachySaddle,Pachy Saddle,Saddle,todo,Pachy saddle|dinosaur saddle|leather saddle,
+SADDLES/PachyrhinosaurusSaddle,Pachyrhinosaurus Saddle,Saddle,todo,Pachyrhinosaurus saddle|dinosaur saddle|leather saddle,
+SADDLES/ParacerPlatformSaddle,Paracer Platform Saddle,Saddle,todo,Paracer platform saddle|howdah|wooden platform,
+SADDLES/ParasaurSaddle,Parasaur Saddle,Saddle,todo,Parasaur saddle|dinosaur saddle|leather saddle,
+SADDLES/PelagornisSaddle,Pelagornis Saddle,Saddle,todo,Pelagornis saddle|dragon saddle|leather saddle,
+SADDLES/PlesiosaurPlatformSaddle,Plesiosaur Platform Saddle,Saddle,todo,Plesiosaur platform saddle|howdah|wooden platform,
+SADDLES/PlesiosaurSaddle,Plesiosaur Saddle,Saddle,todo,Plesiosaur saddle|sea creature saddle|leather saddle harness,
+SADDLES/ProcoptodonSaddle,Procoptodon Saddle,Saddle,todo,Procoptodon saddle|dinosaur saddle|leather saddle,
+SADDLES/PteranodonSaddle,Pteranodon Saddle,Saddle,todo,Pteranodon saddle|dragon saddle|leather saddle,
+SADDLES/QuetzPlatformSaddle,Quetz Platform Saddle,Saddle,todo,Quetz platform saddle|howdah|wooden platform,
+SADDLES/QuetzSaddle,Quetz Saddle,Saddle,todo,Quetz saddle|dragon saddle|leather saddle,
+SADDLES/RaptorSaddle,Raptor Saddle,Saddle,todo,Raptor saddle|dinosaur saddle|leather saddle,
+SADDLES/RexSaddle,Rex Saddle,Saddle,todo,Rex saddle|dinosaur saddle|leather saddle,
+SADDLES/RexTekSaddle,Rex Tek Saddle,Saddle,todo,Rex tek saddle|sci-fi saddle,
+SADDLES/RhyniognathaSaddle,Rhyniognatha Saddle,Saddle,todo,Rhyniognatha saddle|dinosaur saddle|leather saddle,
+SADDLES/SabertoothSaddle,Sabertooth Saddle,Saddle,todo,Sabertooth saddle|dinosaur saddle|leather saddle,
+SADDLES/SarcoSaddle,Sarco Saddle,Saddle,todo,Sarco saddle|dinosaur saddle|leather saddle,
+SADDLES/SpinoSaddle,Spino Saddle,Saddle,todo,Spino saddle|dinosaur saddle|leather saddle,
+SADDLES/StegoSaddle,Stego Saddle,Saddle,todo,Stego saddle|dinosaur saddle|leather saddle,
+SADDLES/TapejaraSaddle,Tapejara Saddle,Saddle,todo,Tapejara saddle|dragon saddle|leather saddle,
+SADDLES/TapejaraTekSaddle,Tapejara Tek Saddle,Saddle,todo,Tapejara tek saddle|sci-fi saddle,
+SADDLES/TerrorbirdSaddle,Terrorbird Saddle,Saddle,todo,Terrorbird saddle|dinosaur saddle|leather saddle,
+SADDLES/TherizinosaurusSaddle,Therizinosaurus Saddle,Saddle,todo,Therizinosaurus saddle|dinosaur saddle|leather saddle,
+SADDLES/ThylacoleoSaddle,Thylacoleo Saddle,Saddle,todo,Thylacoleo saddle|dinosaur saddle|leather saddle,
+SADDLES/TitanosaurPlatformSaddle,Titanosaur Platform Saddle,Saddle,todo,Titanosaur platform saddle|howdah|wooden platform,
+SADDLES/TrikeSaddle,Trike Saddle,Saddle,todo,Trike saddle|dinosaur saddle|leather saddle,
+SADDLES/TusoteuthisSaddle,Tusoteuthis Saddle,Saddle,todo,Tusoteuthis saddle|sea creature saddle|leather saddle harness,
+SADDLES/WoollyRhinoSaddle,WoollyRhino Saddle,Saddle,todo,WoollyRhino saddle|dinosaur saddle|leather saddle,
+SADDLES/YutyrannusSaddle,Yutyrannus Saddle,Saddle,todo,Yutyrannus saddle|dinosaur saddle|leather saddle,
+SHIELDS/MetalShield,Metal Shield,Shield,todo,metal shield,
+SHIELDS/RiotShield,Riot Shield,Shield,todo,riot shield,
+SHIELDS/TekShield,Tek Shield,Shield,todo,sci-fi shield,
+SHIELDS/WoodenShield,Wooden Shield,Shield,todo,wooden round shield|wooden shield,
+STORAGE/Bookshelf,Bookshelf,Structure:Storage,done,Bookshelf realistic,made in previous session
+STORAGE/FeedingTrough,Feeding Trough,Structure:Storage,done,Feeding Trough realistic,made in previous session
+STORAGE/LargeStorageBox,Large Storage Box,Structure:Storage,done,Large Storage Box realistic,made in previous session
+STORAGE/MetalWaterReservoir,Metal Water Reservoir,Structure:Storage,todo,water tank metal|water tank,
+STORAGE/PreservingBin,Preserving Bin,Structure:Storage,done,Preserving Bin realistic,made in previous session
+STORAGE/Refrigerator,Refrigerator,Structure:Storage,todo,refrigerator|fridge,
+STORAGE/StorageBox,Storage Box,Structure:Storage,done,Storage Box realistic,made in previous session
+STORAGE/TekTrough,Tek Trough,Structure:Storage,todo,sci-fi container|sci-fi crate,
+STORAGE/Vault,Vault,Structure:Storage,todo,safe vault|safe,
+STORAGE/WaterReservoir,Water Reservoir,Structure:Storage,done,Water Reservoir realistic,made in previous session
+TEK/TekShieldGenerator,Tek Forcefield,Structure:Tek,todo,sci-fi force field generator|shield generator,
+TEK/TekTeleporter,Tek Teleporter,Structure:Tek,todo,sci-fi teleporter pad|teleporter,
+TEK/TekTransmitter,Tek Transmitter,Structure:Tek,todo,sci-fi antenna|sci-fi transmitter,
+TOOLS/Camera,Camera,Tool,todo,vintage camera|camera,
+TOOLS/Compass,Compass,Tool,todo,old compass|compass,
+TOOLS/Electronics,Electronics,Tool,todo,circuit board|pcb,
+TOOLS/FishingRod,Fishing Rod,Tool,todo,fishing rod,
+TOOLS/GPS,GPS,Tool,todo,handheld gps|gps device,
+TOOLS/MagnifyingGlass,Magnifying Glass,Tool,todo,magnifying glass,
+TOOLS/MetalHatchet,Metal Hatchet,Tool,todo,hatchet axe|hatchet,
+TOOLS/MetalPick,Metal Pick,Tool,todo,pickaxe,
+TOOLS/MetalSickle,Metal Sickle,Tool,todo,sickle,
+TOOLS/Paintbrush,Paintbrush,Tool,todo,paint brush,
+TOOLS/Radio,Radio,Tool,todo,walkie talkie|radio,
+TOOLS/RemoteKeypad,Remote Keypad,Tool,todo,keypad remote|keypad,
+TOOLS/Scissors,Scissors,Tool,todo,scissors,
+TOOLS/SprayPainter,Spray Painter,Tool,todo,spray paint gun|paint sprayer,
+TOOLS/Spyglass,Spyglass,Tool,todo,brass spyglass telescope|spyglass,
+TOOLS/StoneHatchet,Stone Hatchet,Tool,todo,stone axe primitive|stone axe,
+TOOLS/StonePick,Stone Pick,Tool,todo,primitive stone pickaxe|stone pickaxe,
+TOOLS/Torch,Torch,Tool,todo,medieval torch|torch,
+WEAPONS/Bola,Bola,Weapon,todo,bolas weapon|bola,
+WEAPONS/Bow,Bow,Weapon,todo,wooden bow|longbow,
+WEAPONS/Cannon,Cannon,Weapon,todo,cannon,
+WEAPONS/CompoundBow,Compound Bow,Weapon,todo,compound bow,
+WEAPONS/Crossbow,Crossbow,Weapon,todo,crossbow,
+WEAPONS/ElectricProd,Electric Prod,Weapon,todo,stun baton|cattle prod,
+WEAPONS/FabricatedPistol,Fabricated Pistol,Weapon,todo,pistol handgun|pistol,
+WEAPONS/FabricatedSniperRifle,Fabricated Sniper Rifle,Weapon,todo,sniper rifle,
+WEAPONS/HarpoonLauncher,Harpoon Launcher,Weapon,todo,speargun|harpoon gun,
+WEAPONS/LongneckRifle,Longneck Rifle,Weapon,todo,bolt action rifle|hunting rifle,
+WEAPONS/Pike,Pike,Weapon,todo,pike polearm|halberd,
+WEAPONS/PumpActionShotgun,Pump-Action Shotgun,Weapon,todo,pump action shotgun,
+WEAPONS/RocketLauncher,Rocket Launcher,Weapon,todo,rocket launcher|rpg launcher,
+WEAPONS/Shotgun,Shotgun,Weapon,todo,double barrel shotgun,
+WEAPONS/SimplePistol,Simple Pistol,Weapon,todo,flintlock pistol,
+WEAPONS/Slingshot,Slingshot,Weapon,todo,slingshot,
+WEAPONS/Spear,Spear,Weapon,todo,primitive spear|spear,
+WEAPONS/Sword,Sword,Weapon,todo,medieval sword|sword,
+WEAPONS/WoodenClub,Wooden Club,Weapon,todo,wooden club,
