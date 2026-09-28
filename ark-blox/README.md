@@ -11,7 +11,7 @@ Data untuk material/harvest node, item + Quality, dan struktur crafting. Semua d
 | `modules/StructureDatabase.lua` | 79 struktur (crafting, storage, farming, listrik, pertahanan, bed, dekor, Tek) dengan slot dan bahan bakar, plus 159 building piece Thatch sampai Tek. |
 | `modules/ItemDatabase_Island.lua` | 214 item: resource, tools, senjata (beserta amunisinya), amunisi, armor, shield, saddle. |
 | `model_manifest.csv` | Semua 494 aset model beserta path folder, status (`done` / `keep` / `todo`), dan kata kunci pencarian Sketchfab (realistic, beberapa alternatif dipisah `\|`). |
-| `model_candidates.csv` | Hasil `tools/sketchfab_pick.py`: 3 kandidat model realistic per aset `todo`, dengan `Chosen=1` pada pilihan teratas. |
+| `model_candidates.csv` | Hasil `tools/sketchfab_pick.py`: 3 kandidat model realistic per aset `todo`, dengan `Chosen=1` pada pilihan teratas. Saat ini baru 24 aset (AMMO dan Chitin armor). Sisanya belum dicari karena container ini diblokir Sketchfab. |
 | `tools/sketchfab_pick.py` | Mencari kandidat di Sketchfab (tanpa akun). |
 | `tools/sketchfab_download.py` | Mengunduh model yang `Chosen=1` sebagai `.glb` ke `models_src/` dan menulis `CREDITS.md`. |
 
@@ -38,7 +38,7 @@ Item yang bukan Tool/Weapon/Armor/Shield/Saddle (serta tool utilitas seperti GPS
 
 Model `todo` memakai mesh realistic, bukan low poly dan bukan susunan Part.
 
-1. `python3 ark-blox/tools/sketchfab_pick.py` (atau `--only SADDLES/` untuk satu folder). Syarat kandidat: bisa diunduh, lisensi CC0/CC-BY, maksimal 150k face, dan tidak bertag low poly, stylized, voxel, AI-generated, atau rip ARK. Skor dihitung dari tag realistic/PBR/scan, kecocokan nama, budget triangle, dan like.
+1. `python3 ark-blox/tools/sketchfab_pick.py` (atau `--only SADDLES/` untuk satu folder). Syarat kandidat: bisa diunduh, lisensi CC0/CC-BY, maksimal 150k face, dan tidak bertag low poly, stylized, voxel, AI-generated, atau rip ARK. Skor dihitung dari tag realistic/PBR/scan, kecocokan nama, budget triangle, dan like. Kalau Sketchfab memblokir (bot protection), script berhenti tapi hasilnya tetap tersimpan. Lanjutkan nanti dengan `--missing`, sebaiknya dengan `SKETCHFAB_TOKEN` di-set.
 2. Buka `model_candidates.csv`, lihat kolom `Url`, lalu pindahkan `Chosen=1` ke kandidat yang paling pas. Hanya satu per aset.
 3. `export SKETCHFAB_TOKEN=...`, lalu jalankan `python3 ark-blox/tools/sketchfab_download.py`. File masuk ke `models_src/<AssetPath>.glb`, dan `CREDITS.md` ikut ditulis. Kredit wajib untuk CC-BY.
 4. Jika `NeedsDecimate=1`, turunkan dulu di Blender (Decimate) sampai di bawah 20k triangle per mesh. Setelah itu import lewat Studio (File > Import 3D) ke folder dengan `AssetPath` yang sama.

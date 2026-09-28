@@ -1,6 +1,9 @@
 """Find realistic, downloadable Sketchfab models for every `todo` row in model_manifest.csv.
 
-Usage: python3 ark-blox/tools/sketchfab_pick.py [--only PREFIX] [--top N]
+Usage: python3 ark-blox/tools/sketchfab_pick.py [--only PREFIX] [--missing] [--top N]
+
+--missing only searches assets that have no candidate yet (resume after a block).
+Set SKETCHFAB_TOKEN to search as your account; it is less likely to be throttled.
 
 Search needs no account. For each asset the "|"-separated SketchfabQuery terms are
 tried in order until one gives usable candidates. A candidate must be downloadable,
@@ -40,19 +43,29 @@ FIELDS = ["AssetPath", "DisplayName", "Rank", "Chosen", "Score", "Query", "Uid",
           "Faces", "NeedsDecimate", "Likes", "Url", "Thumb"]
 
 
+class Blocked(Exception):
+    pass
+
+
 def search(q):
     params = {"type": "models", "q": q, "downloadable": "true", "count": 24, "max_face_count": MAX_FACES}
     url = API + "?" + urllib.parse.urlencode(params)
+    headers = {"User-Agent": "ark-blox"}
+    if os.environ.get("SKETCHFAB_TOKEN"):
+        headers["Authorization"] = "Token " + os.environ["SKETCHFAB_TOKEN"]
     for attempt in range(4):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "ark-blox"}),
-                                        timeout=30) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30) as r:
+                if r.headers.get("x-amzn-waf-action"):
+                    raise Blocked("Sketchfab bot protection (AWS WAF challenge)")
                 return json.load(r)["results"]
+        except Blocked:
+            raise
         except Exception as e:  # rate limit or network hiccup
-            wait = 2 ** (attempt + 1)
+            wait = 5 * 2 ** attempt
             print(f"  retry {q!r} in {wait}s ({e})")
             time.sleep(wait)
-    return []
+    raise Blocked(f"search kept failing for {q!r}")
 
 
 def score(r, query):
@@ -88,7 +101,7 @@ def pick(row, top):
                         "Uid": r["uid"], "Name": r["name"], "Author": r["user"]["username"], "License": lic,
                         "Faces": faces, "NeedsDecimate": int(faces > TRI_BUDGET), "Likes": r.get("likeCount", 0),
                         "Url": r["viewerUrl"], "Thumb": thumbs[0]["url"] if thumbs else ""})
-        time.sleep(0.4)
+        time.sleep(1.5)
         if len(out) >= top:
             break
     out.sort(key=lambda o: -o["Score"])
@@ -103,17 +116,22 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", default="", help="AssetPath prefix, e.g. SADDLES/")
     ap.add_argument("--top", type=int, default=3)
+    ap.add_argument("--missing", action="store_true", help="only assets without candidates yet")
     a = ap.parse_args()
 
     rows = [r for r in csv.DictReader(open(MANIFEST)) if r["Status"] == "todo" and r["AssetPath"].startswith(a.only)]
-    # Keep existing results (and manual Chosen edits) for assets not being re-searched.
-    kept = []
-    if os.path.exists(OUT):
-        redo = {r["AssetPath"] for r in rows}
-        kept = [r for r in csv.DictReader(open(OUT)) if r["AssetPath"] not in redo]
-    found, missing = [], []
+    old = list(csv.DictReader(open(OUT))) if os.path.exists(OUT) else []
+    if a.missing:
+        have = {r["AssetPath"] for r in old if r["Uid"]}
+        rows = [r for r in rows if r["AssetPath"] not in have]
+    found, missing, done = [], [], set()
     for i, row in enumerate(rows, 1):
-        c = pick(row, a.top)
+        try:
+            c = pick(row, a.top)
+        except Blocked as e:
+            print(f"stopped at {row['AssetPath']}: {e}. Wait a while (or set SKETCHFAB_TOKEN), then rerun with --missing.")
+            break
+        done.add(row["AssetPath"])
         print(f"[{i}/{len(rows)}] {row['AssetPath']}: {len(c)} ({c[0]['Name'] if c else '-'})")
         if c:
             found += c
@@ -121,12 +139,14 @@ def main():
             missing.append(row["AssetPath"])
             found.append({"AssetPath": row["AssetPath"], "DisplayName": row["DisplayName"], "Rank": 0, "Chosen": 0,
                           "Query": row["SketchfabQuery"], "Name": "NO CANDIDATE"})
+    # Keep existing results (and manual Chosen edits) for assets not searched this run.
+    kept = [r for r in old if r["AssetPath"] not in done]
     allrows = sorted(kept + found, key=lambda r: (r["AssetPath"], int(r["Rank"])))
     with open(OUT, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
         w.writerows(allrows)
-    print(f"wrote {OUT}: {len(rows) - len(missing)} assets with candidates, {len(missing)} without")
+    print(f"wrote {OUT}: searched {len(done)}/{len(rows)}, {len(done) - len(missing)} with candidates")
     for m in missing:
         print("  missing", m)
 
